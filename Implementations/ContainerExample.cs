@@ -1,5 +1,4 @@
 ﻿using Autofac;
-using AutofacExample.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
